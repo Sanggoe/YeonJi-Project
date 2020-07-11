@@ -101,13 +101,13 @@
 
 #### 참고 사이트
 
-* [Facebook 이란?]([https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81#%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C](https://ko.wikipedia.org/wiki/페이스북#뉴스피드))
+* [Facebook 이란?](https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81)
 
-* [웹사이트 사용 프로그래밍 언어들]([https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%AA%85%ED%95%9C_%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%97%90_%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4%EB%93%A4](https://ko.wikipedia.org/wiki/유명한_웹사이트에_사용되는_프로그래밍_언어들))
+* [웹사이트 사용 프로그래밍 언어들](https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%AA%85%ED%95%9C_%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%97%90_%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4%EB%93%A4)
 * [2018년 프로그래밍 언어 탑10](https://plas.tistory.com/45)
 * [2020년 프로그래밍 언어](https://plas.tistory.com/92)
 
-
+<br/>
 
 ### 1_2) 만들고 싶은 시스템 기획하기 (분석하기와 반대)
 
